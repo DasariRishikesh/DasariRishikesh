@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DasariRishikesh
 - 👀 I’m interested in Full stack Development, Artificial Intelligence
-- 🌱 I’m currently learning as student ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning as student at IIIT Dharwad, graduating a B-tech Degree in Computer Science and Engineering
+- 💞️ I’m looking to collaborate on open projects
 - 📫 contact me - drishikesh884@gmail.com
 
 <!---
